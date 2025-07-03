@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Hi, I’m a Berlin-based aspiring Data Analyst with a background in organizational management and 3+ years of experience at SAP in project coordination and reporting roles.
+I’m a Berlin-based aspiring Data Analyst with a background in organizational management and 3+ years of experience at SAP in project coordination and reporting roles.
 I recently completed a Data Analytics Fellowship at SAP, where I worked on data exploration and dashboard tasks, and I’m actively building my portfolio to transition fully into analytics.
 
 💡 What I bring:
